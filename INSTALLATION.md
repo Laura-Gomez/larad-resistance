@@ -1,16 +1,15 @@
 # INSTALLATION INSTRUCTIONS
 
-To install and run the software in this repository follow these instructions:
+To install and run the software in this repository follow these instructions
 
 
-
-## Docker and nextflow installation
+## Docker and nextflow installation
 
 Please sure you have docker and nextflow installed in your system
 
 
 
-## Docker repositories 
+## Docker repositories 
 
 Pull the following docker repositories:
 
