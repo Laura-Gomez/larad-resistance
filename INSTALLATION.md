@@ -2,9 +2,12 @@
 
 To install and run the software in this repository follow these instructions:
 
+
+
 ## Docker and nextflow installation
 
 Please sure you have docker and nextflow installed in your system
+
 
 
 ## Docker repositories 
