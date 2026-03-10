@@ -8,3 +8,11 @@ Furthermore, the portal supports the online submission of raw or processed seque
 
 This public repository contains the code generated for the project ""Fortalecimiento de la vigilancia genómica de Acinetobacter baumannii en Latinoamérica a través del establecimiento de un eje de colaboración Chile-México". It contains the code that that supports the site   http://bioinformatica.inmegen.gob.mx/
 
+## PROJECT PARTICIPANTS
+
+- Dra Laura Gómez-Romero, Instituto Nacional de Medicina Genómica, México
+- Dra. Yesseny Vásquez-Martínez, Universidad de Santiago de Chile, Chile
+- Dr. Juan Manuel Bello López, Hospital Juárez de México, México
+- Dr. Alberto Cedro Tanda, Instituto Nacional de Medicina Genómica, México
+- Dr Marcelo Cortez, Universidad de Santiago de Chile, Chile
+
