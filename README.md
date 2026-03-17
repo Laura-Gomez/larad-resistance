@@ -16,3 +16,9 @@ This public repository contains the code generated for the project ""Fortalecimi
 - Dr. Alberto Cedro Tanda, Instituto Nacional de Medicina Genómica, México
 - Dr Marcelo Cortez, Universidad de Santiago de Chile, Chile
 
+## WEB PLATFORM DEVELOPERS
+
+- Mtro. Walter Josué Hernández Santos, Instituto Nacional de Medicina Genómica, México
+- Ing. José Enrique Polanco Morelos, México
+
+
